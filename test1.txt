@@ -1,2 +1,6 @@
 aaaaaaaaaaaaaaa
+<<<<<<< HEAD
+bbbbbbbbbbbbbbb
+=======
 ccccccccccccccc
+>>>>>>> 8ad2e385fb521552184516ee9e944dabd534f46f
